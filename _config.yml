@@ -1,0 +1,28 @@
+name: The Miniature Horse
+favicon: null
+layout_spectrum: 0.5047949373256415
+typography_spectrum: 0.1778309978544712
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#fff7f7'
+    - '#080008'
+    - '#c6de6b'
+    - '#9c8484'
+    - '#397b29'
+  brandStrength: 0.5539249400608242
+  lightness: 0.8125
+  saturation: 0.75
+  rhythmicContrast: 0.0081280127633363
+purpose: []
