@@ -2,14 +2,27 @@
     <channel>
         <title><![CDATA[The Miniature Horse]]></title>
         <description><![CDATA[The Miniature Horse]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-miniature-horse/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Feb 2016 21:01:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 31 Aug 2016 16:33:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-miniature-horse/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://www.facebook.com/LilBeginnings/</link>
+            <guid isPermaLink="false">8b61a24f-149f-42d9-b8f5-d689bd9a4aa1</guid>
+            <pubDate>Wed, 31 Aug 2016 16:33:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p></p>]]></description>
+            <link>https://thegrid.ai/the-miniature-horse/3a0ca154-74e2-454f-9aff-151b9a0f6e9c/index.html</link>
+            <guid isPermaLink="false">3a0ca154-74e2-454f-9aff-151b9a0f6e9c</guid>
+            <pubDate>Wed, 31 Aug 2016 16:32:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Welcome!Miniature Horse articles facts and information]]></title>
             <description><![CDATA[<article><h1>Welcome!Miniature Horse articles facts and information</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fafc2f0ed9030d2b2075ba5660f22aa9df9fd33c.gif"></article>]]></description>
-            <link>undefinedwelcome-miniature-horse-articles-facts-and-information/index.html</link>
+            <link>https://thegrid.ai/the-miniature-horse/welcome-miniature-horse-articles-facts-and-information/index.html</link>
             <guid isPermaLink="false">6f695a6c-afeb-42bd-89cb-b9c3c54d4696</guid>
             <pubDate>Mon, 08 Feb 2016 21:01:26 GMT</pubDate>
         </item>
